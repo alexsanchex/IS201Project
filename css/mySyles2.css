@@ -1,0 +1,50 @@
+p{
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(107, 16, 9);
+}
+
+body{
+    background-color: rgb(94, 109, 192);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-style: normal;
+}
+
+ul{
+    list-style-position: inside;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+li{
+    list-style-position: inside;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+.tableauPlaceholder{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 0px;
+    justify-content: center
+}
